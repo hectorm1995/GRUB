@@ -1,0 +1,2 @@
+# GRUB
+Comandos reinstalar GRUB
